@@ -7,6 +7,6 @@ btn.forEach(function (btn) {
       btn.style.color = "#fafafa";
       btn.style.border = "none";
       btn.textContent = "Added To Cart";
-    }, 5000);
+    }, 10000);
   });
 });
